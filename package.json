@@ -1,0 +1,23 @@
+{
+	"name": "sda-lab",
+	"version": "1.0.0",
+	"description": "this project is going to be deployed in Microsoft Azure",
+	"main": "app.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node app.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/KabirBhae/NodeAppDeployment.git"
+	},
+	"author": "Arafat",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/KabirBhae/NodeAppDeployment/issues"
+	},
+	"homepage": "https://github.com/KabirBhae/NodeAppDeployment#readme",
+	"dependencies": {
+		"express": "^4.18.2"
+	}
+}
